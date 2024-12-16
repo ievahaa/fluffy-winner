@@ -1,0 +1,35 @@
+body {
+    background-color: beige;
+    margin: 0;
+}
+
+.augseja-kaste {
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+    padding: 20px;
+    display: inline-block;
+    background-color: rgb(73, 130, 222);
+}
+.videja-kaste {
+    width: 200px;
+    height: 200px;
+    border: solid 20px;
+    margin-left: 260px;
+    position: fixed;
+    top: 50px;
+    left: 50px;
+    background-color: rgb(227, 230, 55);
+}
+.apakseja-kaste {
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+    margin: 0 0 0 500px;
+    background-color: rgb(222, 18, 167);
+}
+
+.bilde {
+    width: 300px;
+    float: right;
+}
